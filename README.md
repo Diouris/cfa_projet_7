@@ -5,10 +5,13 @@
 Je suis embauchée chez Bottleneck, caviste en ligne, en tant que data analyst. Leurs outils sont artisanaux, et ils ont du mal à analyser leur données et la gestion des stocks est complexe.
 
 **Entreprise fictive :** Bottleneck
+
 **Date :** Mai 2025
+
 ---
 ## 🎯 Objectif Business
 Identifier les ruptures de stock et optimiser la gestion des approvisionnements de Bottleneck via l'analyse des données de stock.
+
 ---
 ## 🛠️ Outils & Compétences mobilisés
 ### Outils utilisés
