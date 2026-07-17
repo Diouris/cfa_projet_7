@@ -1,7 +1,7 @@
 # cfa_projet_7
-# 🎯 Optimiser la gestion des données d'une boutique avec Python
+# Optimiser la gestion des données d'une boutique avec Python
 
-## 📌 Contexte & Scénario
+## Contexte & Scénario
 Je suis embauchée chez Bottleneck, caviste en ligne, en tant que data analyst. Leurs outils sont artisanaux, et ils ont du mal à analyser leur données et la gestion des stocks est complexe.
 
 **Entreprise fictive :** Bottleneck
@@ -9,11 +9,11 @@ Je suis embauchée chez Bottleneck, caviste en ligne, en tant que data analyst. 
 **Date :** Mai 2025
 
 ---
-## 🎯 Objectif Business
+## Objectif Business
 Identifier les ruptures de stock et optimiser la gestion des approvisionnements de Bottleneck via l'analyse des données de stock.
 
 ---
-## 🛠️ Outils & Compétences mobilisés
+## Outils & Compétences mobilisés
 ### Outils utilisés
 | Outil | Usage |
 |-------|-------|
@@ -34,7 +34,7 @@ Identifier les ruptures de stock et optimiser la gestion des approvisionnements 
   - Comprendre un besoin utilisateur
   - Transformer un contexte client flou en objectif analytique précis
 ---
-## 📦 Livrables produits
+## Livrables produits
 - [x] Script Python
 - [x] Présentation PowerPoint
 - [x] Soutenance
